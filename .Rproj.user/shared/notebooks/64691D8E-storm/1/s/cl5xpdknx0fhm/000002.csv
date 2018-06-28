@@ -1,0 +1,5 @@
+"0","storm_data$event_type[1:400]"
+"1","NULL
+"
+"0","#s_c3 <- storm_data$event_type"
+"0","#head(s_c3[order(s_c3)],12)"

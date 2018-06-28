@@ -1,0 +1,5 @@
+"0","library(stringr)"
+"0","storm_data$event_type <- str_replace_all(storm_data$event_type, ""tstm"", ""thunderstorm"")"
+"2","Fehler in `$<-.data.frame`(`*tmp*`, event_type, value = character(0)) : 
+  replacement has 0 rows, data has 902297
+"
